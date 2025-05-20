@@ -1,5 +1,5 @@
 /*!
-Template Name: famousnews - Professional Multipurpose HTML Template for Business Consulting & Financial Services
+Template Name: Famousnews is Nigeria's leading news blog, covering everything from breaking news and politics to entertainment, sports, and in-depth investigative reports.
 Template URI: https://themeforest.net/item/famousnews-professional-multipurpose-html-template-for-business-consulting-financial-services/46320460
 Author: thetork
 Author URI: https: //themeforest.net/user/thetork/portfolio
@@ -3131,11 +3131,11 @@ h6 a {
   }
 }
 .header-wrapper .logo a img {
-  max-width: 100%;
+  max-width: 50%;
 }
 @media (max-width: 575px) {
   .header-wrapper .logo {
-    max-width: 130px;
+    max-width: 50px;
   }
 }
 @media (max-width: 1199px) and (min-width: 992px) {
